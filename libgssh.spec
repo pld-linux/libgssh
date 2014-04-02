@@ -15,6 +15,7 @@ URL:		https://wiki.gnome.org/Projects/LibGSSH
 BuildRequires:	autoconf >= 2.63
 BuildRequires:	automake >= 1:1.11
 BuildRequires:	glib2-devel >= 1:2.34.0
+BuildRequires:	libgsystem-devel
 BuildRequires:	libssh-devel >= 0.6
 BuildRequires:	libtool >= 2:2.2.4
 BuildRequires:	pkgconfig
