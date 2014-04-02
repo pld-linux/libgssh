@@ -6,7 +6,7 @@ Summary:	LibGSSH - friendly GIO wrapper for libssh
 Summary(pl.UTF-8):	LibGSSH - przyjazne obudowanie GIO dla libssh
 Name:		libgssh
 Version:	2014.4
-Release:	1
+Release:	2
 License:	LGPL v2+
 Group:		Libraries
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/libgssh/%{version}/%{name}-%{version}.tar.xz
